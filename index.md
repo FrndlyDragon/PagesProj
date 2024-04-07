@@ -9,3 +9,7 @@ It is games like these that inspire me. Games like these are what push me forwar
 # The Struggles of Video Game Development
 The thing that makes video games so unique is also what makes their creation so difficult. You have two sides, one that is artistic and another that is logical. This conflict causes issues and creating a video game is like conducting an orchestra where half of the orchestra is reading an avant garde piece and the other is reading some romantic era music. It is through this struggle, though, that amazing ideas can be created. It is through the communication of these parts, between the game designers and the software engineers, that magic is born. 
 
+However, unlike art, there are deadlines. Deadlines established by those more worried about profit margins than the quality and integrity of the software, in this case the game, being created. There's a famous saying that is often attributed to Shigeru Miyamoto.
+
+> A delayed game is eventually good, but a rushed game is forever bad.
+
