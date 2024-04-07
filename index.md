@@ -46,5 +46,5 @@ Now, from a more software engineering perspective, I believe we have a responsib
 1. [Relative Link](README.md)
 2. Task List:
    - [X] Task list
-   - [] Ordered List
+   - [ ] Ordered List
 3. Ordered List. Which this is, yippee.
