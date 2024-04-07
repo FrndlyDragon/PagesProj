@@ -1,3 +1,14 @@
+# Sections:
+[Who Am I](#who-am-i)
+
+[What are Video Games](#what-are-video-games)
+
+[The Struggles of Video Game Development](#the-struggles-of-video-game-development)
+
+[The AI Issue](#the-ai-issue)
+
+[Other things to complete the assignment](#other-things-to-complete-the-assignment)
+
 # Who Am I
 Hi, my name is Jordan, and I write and create games. I find games to be that perfect intersection between art, entertainment, and technology. As long as there are computers and there are people, video games will stand the test of time. In a world that seems to grow more and more uncertain and nihilistic, there is an increasing need for people to look somewhere, even if it's just for a moment, to have fun. Some may say escapism is cowardice and that we should stand up and confront the issues abound in the world. I say those people are wrong. In this online world, these issues are thrown at your face day after day, hour after hour. I wish to be there, extending out a digital olive branch to people around the world and give them what I have gotten so often from video games: a reprieve from the real world. 
 
