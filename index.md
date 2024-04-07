@@ -25,7 +25,26 @@ Anyone can tell you that this is not the case. If only it was.
 
 There are a number of other issues but to go over all of them would be time consuming and quite a long read. So let's go over one last issue. The issue of AI.
 
-# AI and Game Development
+# The AI Issue
 I have a lot of opinions when it comes to AI. Let me just make it clear: AI is and will be prone to abuse. It should be, first and for most, a tool. It should be an aid to help people be more productive and focus on more creative and/or difficult tasks. Yet, I see the main push for AI is to replace people in the spheres that I believe to be the most human. AI can't and most likely won't replace software engineers or game designers. These require things outside of pure generation of code and text. If AI can advance to such a degree then we may have more issues to worry about then. No, AI is currently being used to replace writers, artists, and musicians. 
 
+These are the main parts of a game that I can distinguish:
+- Sound
+- Story
+- Art
+- Gameplay
 
+Software is used to connect all of these together with artists of various fields creating the assets used. They are important to the process and are what make games the beautiful symphony that they are. Luckily, most likely due to the games industry being more in tune with the fast changing world of technology, most of the influence AI has had on game development is to advance it further with tools used for procedural generation and animation. However, that doesn't change the fact that AI is advancing more and more in the realms that I believe AI shouldn't be prevalent in. The most common of these is the idea of AI art. I see no reason to even have such generative tools. Art is a matter of expression and skill. Letting a model generate something (I hesitate to say create) removes the human element. One might kid themselves and say that they are the artist, skillfully putting in the words. But I ask, does ordering off a menu make you a chef? No one in their right mind would say yes. This is even worse than that though. The prevalent behaviour of those that sing the praises of AI art is more akin to that of someone saying that they can make artisan burgers just as well as a Michelin star chef and then proceeding to show you something they ordered off a fastfood menu.
+
+There is a video that I quite like that is a response to one such proponent of AI art. This video being [A Criticism of Shadiversity's "AI Love Letter"](https://www.youtube.com/watch?v=svsTKrdSd7s). Now, one might say that this is just one person and not even someone that should be taken seriously, but the main issue is that he is a representation of the culture surrounding AI art and, to an extent, generative AI when it comes to the creative sphere. It touches on many of the issues I have and the problematic nature of those that whole heartedly endorse this use of generative AI.
+
+Now, from a more software engineering perspective, I believe we have a responsibility to ensure what we create can't and will not be abused. There are ethics that must be followed and, sadly, I find the loudest voices are not the most ethical ones. I believe we should be standing with artists and writers to help them push back against the use of AI to replace them. The dream of AI that I see so many say is that it will do our work for us and let us be free to explore our hobbies. I can really only laugh as I now see it take away those hobbies and instead try to force those that already were pursuing their dreams to do the work that we said that AI would handle. Who could have seen this coming.
+
+
+
+# Other things to complete the assignment
+1. [Relative Link](README.md)
+2. Task List:
+   - [X] Task list
+   - [] Ordered List
+3. Ordered List. Which this is, yippee.
